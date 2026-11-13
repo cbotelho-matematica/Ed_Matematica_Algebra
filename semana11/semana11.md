@@ -22,4 +22,14 @@ Boa semana!
 
 ## Material de Estudo
 
+- [Quadráticas e Polinômios](./src/docs/TB_semana_11_corrigido.pdf)
+- [Trecho da Aula 16](./src/docs/trecho_aula_16_ieaa_comentada.pdf)
+- [Vídeo: Completando Quadrados](https://www.youtube.com/watch?v=f6ynmF2TR_w)
+- [Vídeo: Funções](https://www.youtube.com/watch?v=WlyDc5pUyI8)
+- [Coeficientes da Quadrática: GeoGebra](https://www.geogebra.org/m/qezye3qv)
+- [Exercícios Programados 11](./src/docs/EP11_EMAA_Q7_com_exemplos.pdf)
+
 ## Materiais Complementares
+
+- [Trecho Comentado: Aula 21](./src/docs/trecho_aula_21_ieaa_comentada.pdf)
+- [Trecho Comentado: Aula 15 - Demonstração da Fórmula de Bháskara](./src/docs/Aula_15_comentada.pdf)
