@@ -32,9 +32,9 @@ Anne Michelle
 |08|[Potenciação e radiciação](./semana08/semana08.md)|
 |09|[Álgebra, funções, sistemas e modelagem](./semana09/semana09.md)|
 |10|[Crescimento linear e exponencial](./semana10/semana10.md)|
-|11|Crescimento quadrático e polinomial|
+|11|[Crescimento quadrático e polinomial](./semana11/semana11.md)|
 |12|Avaliação 02|
 |13|Semana de Revisão do Conteúdo|
-|14|Função exponencial|
-|15|Logaritmos e escalas logarítmicas|
-|16|Periodicidade e funções trigonométricas|
+|14|[Função exponencial](./semana14/semana14.md)|
+|15|[Logaritmos e escalas logarítmicas](./semana14/semana14.md)|
+|16|[Periodicidade e funções trigonométricas](./semana16/semana16.md)|
