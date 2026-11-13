@@ -22,7 +22,7 @@ Anne Michelle
 
 |Semana|Tema|
 |:---:|:---:|
-|01|[Epistemologia, história, Matemática e sociedade / Aprendizagem, representações e conhecimento profissional docente](./semana01/semana01.md)|
+|01|<a href=./semana01/semana01.md target="_blank">Epistemologia, história, Matemática e sociedade / Aprendizagem, representações e conhecimento profissional docente</a>|
 |02|[Sistemas de numeração, valor posicional, adição e subtração](/semana02/semana02.md)|
 |03|[Multiplicação e divisão: significados, estratégias e materiais concretos](./semana03/semana03.md)|
 |04|[Divisibilidade, números primos, fatoração, MMC e MDC](./semana04/semana04.md)|
