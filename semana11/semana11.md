@@ -32,4 +32,4 @@ Boa semana!
 ## Materiais Complementares
 
 - [Trecho Comentado: Aula 21](./src/docs/trecho_aula_21_ieaa_comentada.pdf)
-- [Trecho Comentado: Aula 15 - Demonstração da Fórmula de Bháskara](./src/docs/Aula_15_comentada.pdf)
+- [Trecho Comentado: Aula 15 - Demonstração da Fórmula de Bhaskara](./src/docs/Aula_15_comentada.pdf)
